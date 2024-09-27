@@ -1,6 +1,3 @@
-openface
-#支持私库
-
 algebr/openface
 
 
